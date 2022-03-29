@@ -1,1 +1,1 @@
-## Welcome to the Tigard High school Game Development Club
+## Welcome to the Tigard High school Game Development Club 👋

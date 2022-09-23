@@ -4,11 +4,11 @@ As representatives of Tigard High School we all carry the same rights and respon
 
 # Student Goals
 
-- Expand their knowlegde
-- Demonstrate Career-related Learning Skills such as team-work, problemsolving, time management and organization
-- Have the desire and capacity for independent, lifelong learning
-- Become informed, responsible and engaged citizens of our society
-- Understand and respect our world of diverse cultures
+- Expand their knowlegde.
+- Demonstrate Career-related Learning Skills such as team-work, problemsolving, time management and organization.
+- Have the desire and capacity for independent, lifelong learning.
+- Become informed, responsible and engaged citizens of our society.
+- Understand and respect our world of diverse cultures.
 
 # School Sponsored Activitys
 

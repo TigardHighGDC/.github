@@ -1,3 +1,3 @@
 # .github
 
-Orginization config files
+Organization config files

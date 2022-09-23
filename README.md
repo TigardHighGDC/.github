@@ -1,1 +1,3 @@
-# TigardHighGDC
+# .github
+
+Orginization config files

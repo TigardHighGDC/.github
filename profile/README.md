@@ -1,4 +1,4 @@
-# Welcome to the Tigard High school Game Development Club 👋
+# Welcome to the Tigard High School Game Development Club 👋
 
 ## Connect With Us
 
